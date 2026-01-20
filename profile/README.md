@@ -25,9 +25,9 @@
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| **[📈 IBOV Predictor](LINK_DO_REPOSITORIO_AQUI)** | Modelo de Machine Learning (XGBoost) capaz de prever a tendência diária do IBOVESPA com **77% de acurácia**. Utiliza engenharia de features temporal e validação sequencial. | `XGBoost` `Pandas` `yfinance` |
-| **[🏗️ Projeto 2 (Ex: Pipeline ETL)](LINK_AQUI)** | (Espaço reservado para o próximo desafio da Pós-Tech) | `SQL` `PowerBI` |
-| **[🤖 Projeto 3 (Ex: NLP)](LINK_AQUI)** | (Espaço reservado para o futuro) | `TensorFlow` `NLTK` |
+| **[📈 IBOV Predictor](https://github.com/DeleteTableSemWhere/FIAP_TC_2-Machine_Learning_and_Time_series)** | Modelo de Machine Learning (XGBoost) capaz de prever a tendência diária do IBOVESPA com **77% de acurácia**. Utiliza engenharia de features temporal e validação sequencial. | `XGBoost` `Pandas` `yfinance` |
+| **[🍷 Vitivinícolas para Business Intelligence](https://github.com/DeleteTableSemWhere/Vitivinicolas-para-Business-intelligence)** | (Espaço reservado para o próximo desafio da Pós-Tech) | `SQL` `PowerBI` |
+| **[🤖 Projeto 3 (Em breve)](LINK_AQUI)** | (Espaço reservado para o futuro) | `TensorFlow` `NLTK` |
 
 <br>
 
