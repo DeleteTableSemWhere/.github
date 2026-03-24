@@ -25,7 +25,7 @@
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| **[🤖 PNAD COVID - Insights](https://github.com/DeleteTableSemWhere/pnad-covid-data-lake)** | (Em andamento) | `TensorFlow` `NLTK` |
+| **[🏥 PNAD COVID - Insights](https://github.com/DeleteTableSemWhere/pnad-covid-data-lake)** | Data Lake em nuvem processando microdados massivos do IBGE para fundamentar um **Plano de Contingência Hospitalar**. Construído sob a arquitetura Medallion com ETL distribuído, filtros temporais e modelagem de 20 variáveis estratégicas. *(Em andamento)* | `AWS (S3/Glue/Athena)` `PySpark` `SQL` `PowerBI` |
 | **[🍷 Vitivinícolas para Business Intelligence](https://github.com/DeleteTableSemWhere/Vitivinicolas-para-Business-intelligence)** | (Espaço reservado para o próximo desafio da Pós-Tech) | `SQL` `PowerBI` |
 | **[📈 IBOV Predictor](https://github.com/DeleteTableSemWhere/FIAP_TC_2-Machine_Learning_and_Time_series)** | Modelo de Machine Learning (XGBoost) capaz de prever a tendência diária do IBOVESPA com **77% de acurácia**. Utiliza engenharia de features temporal e validação sequencial. | `XGBoost` `Pandas` `yfinance` |
 
