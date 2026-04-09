@@ -55,25 +55,26 @@
         <img src="https://github.com/Jonathan-Paixao.png" width="100px;" alt=""/>
         <br /><sub><b>Jonathan Paixão</b></sub>
       </a><br />
-      🐍 Python Dev
+      🐍 Analytic Engineer
     </td>
     <td align="center">
       <a href="https://github.com/rafaelvieiravidal-glitch">
         <img src="https://github.com/rafaelvieiravidal-glitch.png" width="100px;" alt=""/>
         <br /><sub><b>Rafael Vieira</b></sub>
       </a><br />
-      📉 Quant
+      📉 Comercial Analyst
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://github.com/ghost.png" width="100px;" alt=""/>
+      <a href="https://github.com/wgnrs">
+        <img src="https://github.com/wgnrs.png" width="100px;" alt=""/>
         <br /><sub><b>Wagner da Silva</b></sub>
       </a><br />
-      🧠 AI Engineer
+      🧠 Data Engineer
     </td>
   </tr>
 </table>
 </div>
+
 
 <br>
 
