@@ -36,10 +36,41 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/SEU_USER_1"><img src="https://github.com/SEU_USER_1.png" width="100px;" alt=""/><br /><sub><b>Nome Membro 1</b></sub></a><br />🚀 Data Scientist</td>
-    <td align="center"><a href="https://github.com/SEU_USER_2"><img src="https://github.com/SEU_USER_2.png" width="100px;" alt=""/><br /><sub><b>Nome Membro 2</b></sub></a><br />📊 Data Analyst</td>
-    <td align="center"><a href="https://github.com/SEU_USER_3"><img src="https://github.com/SEU_USER_3.png" width="100px;" alt=""/><br /><sub><b>Nome Membro 3</b></sub></a><br />🐍 Python Dev</td>
-    <td align="center"><a href="https://github.com/SEU_USER_4"><img src="https://github.com/SEU_USER_4.png" width="100px;" alt=""/><br /><sub><b>Nome Membro 4</b></sub></a><br />📉 Quant</td>
+    <td align="center">
+      <a href="https://github.com/BrunoAssis12">
+        <img src="https://github.com/BrunoAssis12.png" width="100px;" alt=""/>
+        <br /><sub><b>Bruno Assis</b></sub>
+      </a><br />
+      🚀 Data Scientist
+    </td>
+    <td align="center">
+      <a href="https://github.com/gnunes-io">
+        <img src="https://github.com/gnunes-io.png" width="100px;" alt=""/>
+        <br /><sub><b>Gabriel Nunes</b></sub>
+      </a><br />
+      📊 Data Architect
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jonathan-Paixao">
+        <img src="https://github.com/Jonathan-Paixao.png" width="100px;" alt=""/>
+        <br /><sub><b>Jonathan Paixão</b></sub>
+      </a><br />
+      🐍 Analytic Engineer
+    </td>
+    <td align="center">
+      <a href="https://github.com/rafaelvieiravidal-glitch">
+        <img src="https://github.com/rafaelvieiravidal-glitch.png" width="100px;" alt=""/>
+        <br /><sub><b>Rafael Vieira</b></sub>
+      </a><br />
+      📉 Comercial Analyst
+    </td>
+    <td align="center">
+      <a href="https://github.com/wgnrs">
+        <img src="https://github.com/wgnrs.png" width="100px;" alt=""/>
+        <br /><sub><b>Wagner da Silva</b></sub>
+      </a><br />
+      🧠 Data Engineer
+    </td>
   </tr>
 </table>
 </div>
