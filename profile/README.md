@@ -48,7 +48,7 @@
         <img src="https://github.com/gnunes-io.png" width="100px;" alt=""/>
         <br /><sub><b>Gabriel Nunes</b></sub>
       </a><br />
-      📊 Data Analyst
+      📊 Data Architect
     </td>
     <td align="center">
       <a href="https://github.com/Jonathan-Paixao">
