@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV3eW85eGp4Y3J5eGZ4Y3J5eGZ4Y3J5eGZ4Y3J5eGZ4Y3J5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVq2ZSgnr0h960/giphy.gif" width="100" />
 
-  # 🚀 Tech Challenge Squad: Data Analytics
+  # Tech Challenge Squad: Data Analytics
 
   **Transformando Dados em Decisões Estratégicas**
 
@@ -14,20 +14,22 @@
 
   ---
 
-  ### 🎯 Nossa Missão
-  Somos um time de Analistas de Dados em formação pela **FIAP (Pós-Tech)**. Nosso foco é aplicar estatística avançada, Machine Learning e visão de negócio para resolver problemas complexos, com ênfase atual no **Mercado Financeiro**.
+  ### Noss Objetivo
+  Somos um time de Analistas, Cientistas e Engenheiros de Dados atuando em variados mercados, atualmente em formação pela **FIAP (Pós-Tech)**. Nosso foco é aplicar estatística avançada, Machine Learning e visão de negócio para resolver problemas complexos, com ênfase atual no **Mercado**.
 
 </div>
 
 <br>
 
-## 🏆 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| **[🏥 PNAD COVID - Insights](https://github.com/DeleteTableSemWhere/pnad-covid-data-lake)** | Data Lake em nuvem processando microdados massivos do IBGE para fundamentar um **Plano de Contingência Hospitalar**. Construído sob a arquitetura Medallion com ETL distribuído, filtros temporais e modelagem de 20 variáveis estratégicas. | `AWS (S3/Glue/Athena)` `PySpark` `SQL` `PyMatPlot` |
-| **[🍷 Vitivinícolas para Business Intelligence](https://github.com/DeleteTableSemWhere/Vitivinicolas-para-Business-intelligence)** | (Espaço reservado para o próximo desafio da Pós-Tech) | `SQL` `PowerBI` |
-| **[📈 IBOV Predictor](https://github.com/DeleteTableSemWhere/FIAP_TC_2-Machine_Learning_and_Time_series)** | Modelo de Machine Learning (XGBoost) capaz de prever a tendência diária do IBOVESPA com **77% de acurácia**. Utiliza engenharia de features temporal e validação sequencial. | `XGBoost` `Pandas` `yfinance` |
+| **[Deep Learning and unstructured data](xx)** | (Espaço reservado para o próximo desafio da Pós-Tech) | `Python` `Machine Learning` `Streamlit` |
+| **[Preditor de Obesidade](https://github.com/DeleteTableSemWhere/Preditor_Obesidade-FIAP_Chall)** | Visão analítica deployada em Streamlit, derivada de dados ingeridos e extraidos do Supabase, calculando como Target a previsidibilidade do Nível de Obesidade utilizando Random Forest em Python | `Supabase` `Python` `Streamlit` `GitHub CI/CD - ACtions` `Docker` |
+| **[PNAD COVID - Insights](https://github.com/DeleteTableSemWhere/pnad-covid-data-lake)** | Data Lake em nuvem processando microdados massivos do IBGE para fundamentar um **Plano de Contingência Hospitalar**. Construído sob a arquitetura Medallion com ETL distribuído, filtros temporais e modelagem de 20 variáveis estratégicas. | `AWS (S3/Glue/Athena)` `PySpark` `SQL` `PyMatPlot` |
+| **[IBOV Predictor](https://github.com/DeleteTableSemWhere/FIAP_TC_2-Machine_Learning_and_Time_series)** | Modelo de Machine Learning (XGBoost) capaz de prever a tendência diária do IBOVESPA com **77% de acurácia**. Utiliza engenharia de features temporal e validação sequencial. | `Machine Learning (XGBoost)` `Pandas` `yfinance` |
+| **[Vitivinícolas para Business Intelligence](https://github.com/DeleteTableSemWhere/Vitivinicolas-para-Business-intelligence)** | (Espaço reservado para o próximo desafio da Pós-Tech) | `SQL` `PowerBI` |
 
 <br>
 
